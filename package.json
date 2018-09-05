@@ -1,0 +1,22 @@
+{
+  "name": "my_workflow",
+  "version": "1.0.0",
+  "description": "Files I use to start a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohsAkhtar/my_workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohsAkhtar/my_workflow/issues"
+  },
+  "homepage": "https://github.com/MohsAkhtar/my_workflow#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
